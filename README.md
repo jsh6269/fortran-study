@@ -1,2 +1,2 @@
-# fortran study
+# fortran-study
 fortran tutorial
